@@ -58,7 +58,7 @@ header {
     float: right;
 }
 
-.contries_menu{
+.contries_menu {
     float: right;
     clear: right;
     margin-top: 32px;
@@ -123,7 +123,7 @@ header:after {
         zoom: 1;
     }
     
-    nav ul li:first-child {
+    nav ul:first-child {
         padding-left: 30px;
     }
     nav ul li a {
@@ -155,10 +155,6 @@ header:after {
     nav ul li:hover ul{
        display: block;
     }
-
-    /*nav ul li ul li:hover {
-        text-decoration: underline;
-    }*/
     /*======END_NAVIGATION_MENU======*/
 
 /*======END_HEDER_STYLE======*/
@@ -195,13 +191,12 @@ header:after {
         width: 209px;
     }
     
-/*====== MAIN ======*/
+/*====== /MAIN ======*/
 
 /*=============FOOTER==============*/
 footer {
     color: white;
     text-align: center;
-    /*font-family: ta*/
     font-size: 14px;
 }
 
