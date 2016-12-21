@@ -128,11 +128,7 @@ header:after {
     }
     nav ul li a {
         display: inline-block;
-        height: 28px;
-    }
-
-    nav ul li:hover {
-        background-color: black; 
+        height: 31px;
     }
 
     nav ul li ul {
@@ -147,7 +143,6 @@ header:after {
     nav ul li ul li {
         display: block;
         float: none;
-        border-bottom: 1px solid green;
         line-height: 20px;
         padding: 0 8px;
     }
@@ -189,6 +184,7 @@ header:after {
     .right_side {
         float: right;
         width: 209px;
+        border-left: 1px solid grey;
     }
     
 /*====== /MAIN ======*/
