@@ -156,19 +156,16 @@ header:after {
        display: block;
     }
 
-    nav ul li ul li:hover {
+    /*nav ul li ul li:hover {
         text-decoration: underline;
-    }
+    }*/
     /*======END_NAVIGATION_MENU======*/
 
 /*======END_HEDER_STYLE======*/
 
 /*====== MAIN ======*/
+
     main:after {
-        content: '';
-        clear: both;
-    }
-    main:after; {
         content: '';
         clear: both;
         display: block;
